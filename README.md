@@ -1,7 +1,3 @@
-# Professional Resume Template
-
-A clean, modern resume template designed to help you stand out to recruiters and showcase your experience effectively.
-
 ## Key Features
 
 * **Interactive Design:** Explore the resume easily using built-in filters that highlight your specific skills and experience as you click.
